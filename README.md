@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ### STATS
 
-[![Jiayi's github stats](https://github-readme-stats.vercel.app/api?username=sheepzh&show_icons=true)](https://github.com/sheepzh/github-readme-stats)
+[![Jiayi's github stats](https://github-readme-stats.vercel.app/api?username=sheepzh&show_icons=true&hide=contribs,issues)](https://github.com/sheepzh/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheepzh&layout=compact)](https://github.com/sheepzh/github-readme-stats)
