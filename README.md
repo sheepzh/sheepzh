@@ -7,7 +7,7 @@
 <br><br>
 &emsp;&emsp;&emsp;&emsp; a poemwriter who writes sidewalks between pears and butterflies
 <br><br>
-&emsp;&emsp;&emsp;&emsp; more of an animal, who is called INTP, and keeps something sweet for swimming in the galaxy
+&emsp;&emsp;&emsp;&emsp; more of an animal, who is always called INTP, and keeps something sweet for swimming in the galaxy
 
 <br>
 
