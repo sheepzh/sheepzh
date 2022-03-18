@@ -1,12 +1,20 @@
 ## Who is this?
 
+<br>
+<br>
+
 &emsp;&emsp;&emsp;&emsp; a coder who mainly uses java, python3 and typescript
 <br><br>
 &emsp;&emsp;&emsp;&emsp; a poemwriter who writes sidewalks between pears and butterflies
 <br><br>
 &emsp;&emsp;&emsp;&emsp; more of an animal, who is called INTP, and keeps something sweet for swimming in the galaxy
 
-----------
+<br>
+
+##
+
+<br>
+<br>
 
 &emsp;&emsp;&emsp;&emsp; “没有细节就是削足适履。”
 <br>                                                          
