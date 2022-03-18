@@ -1,9 +1,9 @@
 ## Who is this?
 
 &emsp;&emsp; a coder who mainly uses java, python3 and typescript
-<br>
+<br><br>
 &emsp;&emsp; a poemwriter who writes sidewalks between pears and butterflies
-<br>
+<br><br>
 &emsp;&emsp; more of an animal, who is called INTP, and keeps something sweet for swimming in the galaxy
 
 ----------
