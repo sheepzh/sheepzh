@@ -15,7 +15,7 @@
 
 ##
 
-<br><br><br>
+<br><br>
 
 &emsp;&emsp;&emsp;&emsp; “没有细节就是削足适履。”
 <br>                                                          
@@ -30,4 +30,4 @@
 <br>
 <br>&emsp;&emsp;&emsp;&emsp; 另一位关于我的福楼拜大帝
 <br>&emsp;&emsp;&emsp;&emsp; 在跳脚。
-<br><br><br><br>
+<br><br><br><br><br>
