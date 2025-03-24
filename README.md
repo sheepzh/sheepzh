@@ -5,7 +5,7 @@
 <br>
 <br>
 
-&emsp;&emsp;&emsp;&emsp; a coder who mainly uses java, python3 and typescript
+&emsp;&emsp;&emsp;&emsp; a coder who mainly uses java, python and typescript
 <br><br>
 &emsp;&emsp;&emsp;&emsp; a poemwriter who writes sidewalks between pears and butterflies
 <br><br>
