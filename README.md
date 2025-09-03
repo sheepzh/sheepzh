@@ -29,13 +29,13 @@
   <a href="https://github.com/sheepzh">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sheepzh&show_icons=true&theme=rose_pine&count_private=false" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=sheepzh&show_icons=true&theme=swift&count_private=false" />
+      <img height="180" align="left" style="padding-right:0" src="https://github-readme-stats.vercel.app/api?username=sheepzh&show_icons=true&theme=swift&count_private=false" />
     </picture>
   </a>
   <a href="https://github.com/sheepzh">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sheepzh&layout=compact&theme=rose_pine&hide=jupyter%20notebook&exclude_repo=poetry" />
-      <img height="195" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheepzh&layout=compact&theme=swift&hide=jupyter%20notebook&exclude_repo=poetry" />
+      <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheepzh&layout=compact&theme=swift&hide=jupyter%20notebook&exclude_repo=poetry" />
     </picture>
   </a> 
 </p>
