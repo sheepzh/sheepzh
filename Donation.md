@@ -1,4 +1,4 @@
 # Donation
 
-<img src="./images/wechat.jpg"/>
-<img src="./images/alipay.jpg"/>
+<img width="300" src="./images/wechat.jpg"/>
+<img width="300" src="./images/alipay.jpg"/>
